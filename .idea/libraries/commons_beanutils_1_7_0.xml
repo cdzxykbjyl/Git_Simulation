@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-api-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-coverage-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-cql-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-data-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-epsg-hsql-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-geojson-18.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-main-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-metadata-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-opengis-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-referencing-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-render-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-shapefile-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gt-swing-20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jts-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jts-core-1.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jtsio-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kafka-clients-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.18.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/roadsimulationhome1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/si-quantity-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/si-units-java8-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/systems-common-java8-0.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unit-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/uom-lib-common-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/uom-se-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlbeans-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

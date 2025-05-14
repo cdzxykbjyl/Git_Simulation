@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Main-Class: com.lineBuffer.PolylineBuffer
+Class-Path: commons-beanutils-1.7.0.jar commons-collections-3.2.2.jar do
+ m4j-1.6.1.jar fastjson-1.2.4.jar gson-2.2.4.jar gt-api-20.2.jar gt-cove
+ rage-20.2.jar gt-cql-20.2.jar gt-data-20.2.jar gt-epsg-hsql-20.2.jar gt
+ -geojson-18.4.jar gt-main-20.2.jar gt-metadata-20.2.jar gt-opengis-20.2
+ .jar gt-referencing-20.2.jar gt-render-20.2.jar gt-shapefile-20.2.jar g
+ t-swing-20.2.jar jts-1.14.jar jts-core-1.16.0.jar jtsio-1.14.jar jxl.ja
+ r kafka-clients-2.8.0.jar lombok-1.18.18.jar poi-4.0.0.jar poi-ooxml-4.
+ 0.0.jar poi-ooxml-schemas-4.0.0.jar roadsimulationhome1.1.jar si-quanti
+ ty-0.7.1.jar si-units-java8-0.7.1.jar slf4j-api-1.7.10.jar slf4j-simple
+ -1.7.25.jar systems-common-java8-0.7.2.jar unit-api-1.0.jar uom-lib-com
+ mon-1.0.2.jar uom-se-1.0.8.jar xmlbeans-4.0.0.jar
+
